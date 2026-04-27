@@ -1,8 +1,8 @@
 # 👁️ Neural-Lens | Visual Intelligence Analysis Engine
 
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage)
-![License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
-![Tech](https://img.shields.io/badge/TECH-COMPUTER_VISION-green?style=for-the-badge)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage)](https://github.com/ayanlogix/neural-lens/commits/main)
+[![License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](https://github.com/ayanlogix/neural-lens/blob/main/LICENSE)
+[![Tech](https://img.shields.io/badge/TECH-COMPUTER_VISION-green?style=for-the-badge)](https://github.com/ayanlogix/neural-lens/)
 
 **Neural-Lens** is a high-performance visual intelligence engine designed for real-time image analysis and neural-pattern recognition. It provides an elite interface for exploring the intersection of computer vision and automated reasoning.
 
