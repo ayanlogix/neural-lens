@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neural Forge | Precision Architecture Analytics</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 fill=%22%230f172a%22/><circle cx=%2250%22 cy=%2250%22 r=%2230%22 fill=%22none%22 stroke=%22%2338bdf8%22 stroke-width=%224%22/></svg>">
+</head>
+<body>
+    <div class="forge-container">
+        <!-- Sidebar: Configuration -->
+        <aside class="sidebar">
+            <header class="sidebar-header">
+                <div class="brand">
+                    <span class="indicator"></span>
+                    <h1>Neural Forge</h1>
+                </div>
+                <p class="tagline">Architecture Engine v1.0.4</p>
+            </header>
+
+            <section class="config-section">
+                <div class="section-title">topology config</div>
+                <div id="layerStack" class="layer-stack">
+                    <!-- Dynamic Layer Cards -->
+                </div>
+                <button id="addLayerBtn" class="action-btn outline">+ Add Hidden Depth</button>
+            </section>
+
+            <section class="analytics-section">
+                <div class="section-title">mathematical audit</div>
+                <div class="metric">
+                    <span class="label">Trainable Parameters</span>
+                    <span id="paramCount" class="value primary">0</span>
+                </div>
+                <div class="metric">
+                    <span class="label">Compute Operations</span>
+                    <span class="value">2.42 MFLOPS</span>
+                </div>
+                <div class="metric">
+                    <span class="label">Kernel Format</span>
+                    <span class="value">Dense / ReLU</span>
+                </div>
+            </section>
+
+            <footer class="sidebar-footer">
+                <button id="exportBtn" class="action-btn solid">Export schema.json</button>
+            </footer>
+        </aside>
+
+        <!-- Main: Visualization -->
+        <main class="viewport">
+            <header class="viewport-header">
+                <div class="breadcrumb">Workspace / Root / Active_Topology</div>
+                <div class="status-badge">System Ready</div>
+            </header>
+
+            <div class="canvas-area">
+                <canvas id="forgeCanvas"></canvas>
+            </div>
+
+            <footer class="viewport-footer">
+                <div class="info-bar">
+                    <span class="info-item">Resolution: 1080p (Sim)</span>
+                    <span class="info-item">Engine: Precision_V1</span>
+                    <span class="info-item">License: Professional Edition</span>
+                </div>
+            </footer>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
