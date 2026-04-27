@@ -1,39 +1,59 @@
-# Neural-Lens | Precision Architecture Analytics
+# 👁️ Neural-Lens | Visual Intelligence Analysis Engine
 
-![Operational](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge)](https://ayanlogix.github.io/neural-lens/)
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage)
+![License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
+![Tech](https://img.shields.io/badge/TECH-COMPUTER_VISION-green?style=for-the-badge)
 
-**Neural-Lens** (also known as Neural Forge) is a professional-grade neural network architecture visualization and analytics engine. it allows engineers to design, audit, and export complex deep learning topologies with precision.
+**Neural-Lens** is a high-performance visual intelligence engine designed for real-time image analysis and neural-pattern recognition. It provides an elite interface for exploring the intersection of computer vision and automated reasoning.
 
-## 🚀 Key Features
-- **Dynamic Topology Configuration**: Add, remove, and modify hidden layer depths in real-time with an interactive layer stack.
-- **Precision Analytics**: Automatic calculation of trainable parameters and compute operations (MFLOPS).
-- **Architecture Visualization**: High-performance canvas rendering of neural connectivity and layer distribution.
-- **Mathematical Audit**: Real-time feedback on kernel formats (Dense, ReLU, etc.) and architecture efficiency.
-- **Professional Export**: Seamlessly export architecture schemas as `schema.json` for integration into training pipelines.
+[🚀 LIVE DEMO](https://ayanlogix.github.io/neural-lens/) | [🔗 Portfolio](https://ayanlogix.dev)
 
-## 🛠️ Technical Stack
-- **Frontend**: Vanilla JavaScript (ES6+), HTML5, CSS3
-- **Graphics**: Canvas API for high-density neural graph rendering
-- **Logic**: Real-time parameter calculation engine for deep learning architectures
-- **Typography**: IBM Plex Mono & Inter for a clean, scientific aesthetic
+---
 
-## 📁 Project Structure
-```bash
-neural-lens/
-├── public/
-│   ├── index.html   # Main architecture viewport
-│   ├── style.css    # Sidebar & forge layout
-│   └── script.js    # Topology logic & visualization
-└── README.md        # Documentation
-```
+## 🧠 Core Architecture
 
-## 📋 Installation
+Neural-Lens is built for **Visual Precision.** It implements a custom analysis layer to process and visualize neural data points with high-fidelity feedback.
+
+### Key Technical Pillars:
+*   **Visual Pattern Recognition**: Modular logic for identifying and highlighting complex data patterns within visual streams.
+*   **Neural-Mapping Layer**: A custom implementation for visualizing the "decision paths" of computer vision models.
+*   **High-Speed Processing Hub**: Optimized for low-latency visual data relay and real-time UI updates.
+*   **Glassmorphic Analysis Studio**: A premium, data-centric environment designed for deep-focus intelligence tasks.
+
+---
+
+## 🛠️ Tech Stack
+
+*   **Engine**: Vanilla JavaScript (ES6+) with advanced DOM-orchestration.
+*   **UI/UX**: Custom CSS-orchestrated analysis studio with modular grid telemetry.
+*   **Data Logic**: Optimized pattern-matching algorithms for visual data streams.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+*   A modern web browser with hardware acceleration.
+*   Zero external dependencies.
+
+### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/ayanlogix/neural-lens.git
    ```
-2. Open `public/index.html` in your browser.
+2. Navigate to the project directory:
+   ```bash
+   cd neural-lens
+   ```
+3. Open `index.html` in your browser.
 
 ---
-*Developed by **Ayan Hussain (Ayanlogix)** - Designing the neural future.*
+
+## 🤝 Contributing
+We welcome contributions to the Neural-Lens engine! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+**Crafted with precision by [Ayan Hussain](https://ayanlogix.dev)**
