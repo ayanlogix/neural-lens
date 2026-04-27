@@ -1,7 +1,7 @@
 # Neural-Lens | Precision Architecture Analytics
 
-![Neural-Lens Preview](https://img.shields.io/badge/Ayanlogix-AI_Architecture-blue?style=for-the-badge)
-![Private](https://img.shields.io/badge/Status-Private-red?style=for-the-badge)
+![Operational](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge)](https://ayanlogix.github.io/neural-lens/)
 
 **Neural-Lens** (also known as Neural Forge) is a professional-grade neural network architecture visualization and analytics engine. it allows engineers to design, audit, and export complex deep learning topologies with precision.
 
